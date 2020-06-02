@@ -2,7 +2,7 @@ def hello_t(array)
     ["Tim", "Tom", "Jim"].each do |names|
   puts "#{names}"
   end
-# end
+end
   
 # def hello_t(array) 
 #   i = 0
